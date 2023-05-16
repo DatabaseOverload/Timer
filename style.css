@@ -32,7 +32,7 @@ p {
     color: var(--primary-color);
 }
 
-.demo {
+.timer {
     font-size: 1.5rem;
     margin-top: -50px;
 }
